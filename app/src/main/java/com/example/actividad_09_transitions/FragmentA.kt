@@ -57,7 +57,7 @@ class FragmentA : Fragment() {
 
         imageViewA.setOnClickListener { clickedView ->
             val intent = Intent(requireContext(), DetailActivity::class.java)
-            intent.putExtra("IMAGE_ID", R.drawable.image_a) // Reemplaza con el ID de tu imagen
+            intent.putExtra("IMAGE_ID", R.drawable.image_a)
 
             val options = ActivityOptionsCompat.makeSceneTransitionAnimation(
                 requireActivity(),
