@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Actividad_09_Transitions</string>
+    <string name="fragment_a">Fragment A</string>
+    <string name="pasar_a_fragment_b">Pasar a Fragment B</string>
+    <string name="animaciones_imagen_y_t_tulo">Animaciones (Imagen y Título)</string>
+    <string name="fragment_b">Fragment B</string>
+    <string name="pasar_a_fragment_a">Pasar a Fragment A</string>
+</resources>
